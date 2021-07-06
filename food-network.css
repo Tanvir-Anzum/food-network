@@ -74,42 +74,53 @@ p{
 .middele .order{
     margin-top: 8rem;
 }
-
+.aligning{
+    text-align: center;
+}
+#aligning{
+    margin-left: 2rem;
+}
 .middle h1{
     margin-top: 11rem;
 }
 
 .thirdContainer{
     display: flex;
-    height: 80vh;
+    height: 70vh;
     margin: 0;
 }
 
 .tasty{
-    width: 100%;
+    width: 90%;
     height: 50%;
     
-    padding: 2rem;
 }
 .yummy{
-    width: 100%;
+    width: 90%;
     height: 50%;
-    padding: 2rem;
+    
     
 }
 .loveit{
-    width: 100%;
+    width: 90%;
     height: 50%;
-    padding: 2rem;
+    
     
 }
 
 .resize{
-    width: 75%;
+    width: 90%;
     height: 30%;
-    padding: 2rem;
+
 }
 
-.thirdContainer h1{
+/*.thirdContainer h1{
+    padding: rem;
+}*/
+.start, .inner, .end{
+    width: 31%;
+    margin-left: 4rem;
+    margin-top: 2rem;
     padding: 2rem;
+    box-shadow: 0px 0px 8px gray;
 }
