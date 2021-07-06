@@ -24,6 +24,16 @@ h1{
     width: 50%;
     margin-left: 3%;
 }
+
+.two{
+    margin-top: 5rem;
+    
+    
+}
+.image2{
+    width: 60%;
+    height: 90%;
+}
 .orange{
     color:orange;
 }
@@ -49,4 +59,22 @@ p{
 .image{
     width: 100%;
     height: 100%;
+}
+
+.secContainer{
+    display: flex;
+
+    background-image: url(back.png);
+}
+
+.middle p{
+    margin-bottom: 8rem;
+    font-size: 30px;
+}
+.middele .order{
+    margin-top: 8rem;
+}
+
+.middle h1{
+    margin-top: 11rem;
 }
